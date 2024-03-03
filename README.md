@@ -1,2 +1,2 @@
 # Sell_Application
-web form app with c#
+all codes in Form1.cs file. this file written wtih c# and this is a web form application.  
